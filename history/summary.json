@@ -4,12 +4,12 @@
     "url": "https://pensamientopenal.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/pensamientopenal.com.ar.ico",
     "slug": "revista",
-    "status": "up",
-    "uptime": "97.29%",
-    "uptimeDay": "67.70%",
+    "status": "down",
+    "uptime": "97.32%",
+    "uptimeDay": "70.06%",
     "uptimeWeek": "66.44%",
-    "uptimeMonth": "88.61%",
-    "uptimeYear": "97.29%",
+    "uptimeMonth": "88.73%",
+    "uptimeYear": "97.32%",
     "time": 1303,
     "timeDay": 1065,
     "timeWeek": 1602,
@@ -27,7 +27,7 @@
       "2022-10-19": 357,
       "2022-10-18": 323,
       "2022-10-17": 510,
-      "2022-10-16": 335
+      "2022-10-16": 284
     }
   }
 ]
