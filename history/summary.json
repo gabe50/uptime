@@ -6,17 +6,17 @@
     "slug": "revista",
     "status": "up",
     "uptime": "98.67%",
-    "uptimeDay": "81.02%",
-    "uptimeWeek": "78.71%",
-    "uptimeMonth": "92.35%",
+    "uptimeDay": "82.06%",
+    "uptimeWeek": "79.23%",
+    "uptimeMonth": "92.32%",
     "uptimeYear": "98.67%",
-    "time": 1236,
-    "timeDay": 1229,
-    "timeWeek": 1154,
+    "time": 1235,
+    "timeDay": 1250,
+    "timeWeek": 1156,
     "timeMonth": 1180,
-    "timeYear": 1236,
+    "timeYear": 1235,
     "dailyMinutesDown": {
-      "2022-12-13": 272,
+      "2022-12-13": 257,
       "2022-12-12": 217,
       "2022-12-11": 270,
       "2022-12-10": 266,
@@ -27,7 +27,7 @@
       "2022-12-05": 383,
       "2022-12-04": 288,
       "2022-12-03": 118,
-      "2022-12-02": 137
+      "2022-12-02": 166
     }
   }
 ]
